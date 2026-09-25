@@ -1,7 +1,5 @@
-# Leaflet Storymaps with Google Sheets
+# Leaflet Storymaps Tutorial Template
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
-
-
 
 ## Live links (replace with your own)
 - Leaflet Map https://waver2299.github.io/leaflet-storymaps-tutorial-template
